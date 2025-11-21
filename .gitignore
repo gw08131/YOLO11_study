@@ -51,7 +51,8 @@ desktop.ini
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb 파일은 튜토리얼용이므로 포함
+!yolo_detector_tutorial.ipynb
 
 # Logs
 *.log

@@ -289,6 +289,6 @@ model.export(format='engine')
 
 ---
 
-**Last Updated**: 2024년 11월 21일  
+**Last Updated**: 2025년 11월 21일  
 **Author**: aebonlee  
 **Version**: 2.0 (Fine-tuning Edition)
